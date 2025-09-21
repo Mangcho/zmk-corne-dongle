@@ -1,6 +1,3 @@
-- [Chinese](README.md)
-- [English](README_EN.md)
-
 # Update List
 
 - 2024/12/21
@@ -19,5 +16,4 @@ For 3D printed model files or any issues and malfunctions with the keyboard, ple
 # Corne Keymap
 
 
-<img src="keymap-drawer/eyelast_corne.svg" >
-
+<img src="keymap-drawer/eyeslash_corne.svg" >
