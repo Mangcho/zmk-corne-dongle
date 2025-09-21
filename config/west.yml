@@ -8,6 +8,8 @@ manifest:
       url-base: https://github.com/tokyo2006
     - name: englmaxi
       url-base: https://github.com/englmaxi
+    - name: caksoylar
+      url-base: https://github.com/caksoylar
   projects:
     - name: hammerbeam-slideshow # board OLED Screen Image
       remote: gpeye
